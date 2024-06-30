@@ -8,9 +8,9 @@ A comprehensive tutorial on how to implement and train variational autoencoder m
 
 
 ## Example results
-![Leanred MNIST manifold](./Assets/Images/VAE_Manifold_X-2_2_Y_-2_2.png)
+![Leanred MNIST manifold](./Assets/Images/VAE_Manifold_X-2_2_Y_-2_2.png "Leanred MNIST manifold")
 
-![Leanred MNIST latent space distribution](./Assets/Images/VAE_LatentSpace.png)
+![Leanred MNIST latent space distribution](./Assets/Images/VAE_LatentSpace.png "Leanred MNIST latent space distribution")
 
 ## Dependency
 This repo has been implemented and tested on the following dependencies:
